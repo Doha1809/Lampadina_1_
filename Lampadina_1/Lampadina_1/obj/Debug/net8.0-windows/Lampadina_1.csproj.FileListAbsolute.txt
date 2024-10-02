@@ -1,0 +1,17 @@
+C:\Users\Utente\source\repos\Lampadina_1\Lampadina_1\obj\Debug\net8.0-windows\Lampadina_1.Form1.resources
+C:\Users\Utente\source\repos\Lampadina_1\Lampadina_1\obj\Debug\net8.0-windows\Lampadina_1.Properties.Resources.resources
+C:\Users\Utente\source\repos\Lampadina_1\Lampadina_1\obj\Debug\net8.0-windows\Lampadina_1.csproj.GenerateResource.cache
+C:\Users\Utente\source\repos\Lampadina_1\Lampadina_1\obj\Debug\net8.0-windows\Lampadina_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\source\repos\Lampadina_1\Lampadina_1\obj\Debug\net8.0-windows\Lampadina_1.AssemblyInfoInputs.cache
+C:\Users\Utente\source\repos\Lampadina_1\Lampadina_1\obj\Debug\net8.0-windows\Lampadina_1.AssemblyInfo.cs
+C:\Users\Utente\source\repos\Lampadina_1\Lampadina_1\obj\Debug\net8.0-windows\Lampadina_1.csproj.CoreCompileInputs.cache
+C:\Users\Utente\source\repos\Lampadina_1\Lampadina_1\bin\Debug\net8.0-windows\Lampadina_1.exe
+C:\Users\Utente\source\repos\Lampadina_1\Lampadina_1\bin\Debug\net8.0-windows\Lampadina_1.deps.json
+C:\Users\Utente\source\repos\Lampadina_1\Lampadina_1\bin\Debug\net8.0-windows\Lampadina_1.runtimeconfig.json
+C:\Users\Utente\source\repos\Lampadina_1\Lampadina_1\bin\Debug\net8.0-windows\Lampadina_1.dll
+C:\Users\Utente\source\repos\Lampadina_1\Lampadina_1\bin\Debug\net8.0-windows\Lampadina_1.pdb
+C:\Users\Utente\source\repos\Lampadina_1\Lampadina_1\obj\Debug\net8.0-windows\Lampadina_1.dll
+C:\Users\Utente\source\repos\Lampadina_1\Lampadina_1\obj\Debug\net8.0-windows\refint\Lampadina_1.dll
+C:\Users\Utente\source\repos\Lampadina_1\Lampadina_1\obj\Debug\net8.0-windows\Lampadina_1.pdb
+C:\Users\Utente\source\repos\Lampadina_1\Lampadina_1\obj\Debug\net8.0-windows\Lampadina_1.genruntimeconfig.cache
+C:\Users\Utente\source\repos\Lampadina_1\Lampadina_1\obj\Debug\net8.0-windows\ref\Lampadina_1.dll
