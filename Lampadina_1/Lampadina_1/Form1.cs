@@ -17,6 +17,7 @@ namespace Lampadina_1
         {
             if (pictureBox1.Image != null)
             {
+                //bitmap è una variabile di tipo Bitmap(una classe) che serve per contenree l'immagine con permessi di accesso e di modifica 
                 Bitmap bitmap = new Bitmap(pictureBox1.Image);
                 ChangeImageColor(bitmap, Color.Yellow); // Cambia il colore con il colore desiderato
                 pictureBox1.Image = bitmap;
