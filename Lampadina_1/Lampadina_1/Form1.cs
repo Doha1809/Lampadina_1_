@@ -35,6 +35,7 @@ namespace Lampadina_1
                     if (originalColor.A > 0) // Solo per i pixel visibili
                     {
                         bitmap.SetPixel(x, y, newColor);
+                        //set pixel serve per impostare il colore giallo a ogni pixel
                     }
                 }
             }
